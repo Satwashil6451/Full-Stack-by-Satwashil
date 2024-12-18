@@ -13,7 +13,8 @@ let isMarried = false;
 console.log("My name is "+ FirstName + " My age is "+ age);
 console.log("Married (True/False) -  "+ isMarried);
 
-if(isMarried == true){
+if(isMarried == true)
+{
     console.log(FirstName + "is married");
 }
 if(isMarried == false){
