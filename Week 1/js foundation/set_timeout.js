@@ -4,7 +4,6 @@ function greet (){
     console.log ("Good Morning!");
 }
 
-
 function greetworld(){
     console.log ("Hello World");
 }
