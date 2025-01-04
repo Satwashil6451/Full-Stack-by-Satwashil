@@ -1,6 +1,4 @@
-//week 1
-//callback functions 
-
+//callback function 
 function sum(num1, num2, fnToCall) {
     let result = num1 + num2;
     fnToCall(result);
