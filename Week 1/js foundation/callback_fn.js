@@ -13,7 +13,8 @@ function displayResultPassive(data) {
 }
 
 // You are only allowed to call one function after this
-// How will you displayResult of a sumfunction sum(num1, num2, callback) {
+// How will you displayResult of a sumfunction sum(num1, num2, callback) 
+{
     let result = num1 + num2;
     callback(result);
 
