@@ -7,3 +7,5 @@ resolve("hi there");
 p.then(function() {
 console.log(p);
 })  
+
+console.log("Promises")
