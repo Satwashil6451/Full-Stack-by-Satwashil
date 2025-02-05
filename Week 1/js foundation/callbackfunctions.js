@@ -1,4 +1,5 @@
-// Call back functions
+/* callback function -  A callback function in JavaScript is a function that is passed as an argument to another function 
+and is executed later, usually after some operation has been completed. */
 
 // function to find the square of number
 function square(n){
@@ -10,7 +11,7 @@ function SumOfSquares(a,b){
     const val1 = square(a);
     const val2 = square(b);
 
-    return val1 + val2
+    return val1 + val2     
 }
 console.log(SumOfSquares(3,6))
 
