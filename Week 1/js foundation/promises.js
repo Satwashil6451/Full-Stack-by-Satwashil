@@ -1,3 +1,6 @@
+/*n JavaScript, Promises are used to handle asynchronous operations.
+A Promise represents a value that might be available now, in the future, or never.*/
+
 const fs = require('fs');
 
 // my own asynchronous function
