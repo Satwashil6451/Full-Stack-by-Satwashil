@@ -1,3 +1,4 @@
+//class in js
 
 class Animal {
     constructor(name, legCount) {
@@ -8,6 +9,3 @@ class Animal {
       return `${this.name} has ${this.legCount} legs`
     }
   }
-  
-  
-  
