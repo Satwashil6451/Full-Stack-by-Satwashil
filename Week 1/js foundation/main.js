@@ -1,6 +1,7 @@
-let a = 1;
 /*if we replace let with const then it'll 
 throw an error because we cannot change the value of const throughout the code base*/
+
+let a = 1;
 a = 2;
 a = 3;  
 console.log(a);
