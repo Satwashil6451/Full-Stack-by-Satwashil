@@ -1,11 +1,44 @@
 // String handbook
 
-// String: length, indexOf(), lastIndexOf(), slice(), substring(), replace(),
-// split(), trim(), toUpperCase(), toLowerCase(), etc.
+// String handbook: Demonstration of various string functions
 
-// Run each function to see the output, play and learn by doing.
+const str = "  Hello, JavaScript World!  ";
+console.log("Original String:", str);
 
-// Length
+// length
+console.log("Length:", str.length);
+
+// indexOf()
+console.log("Index of 'JavaScript':", str.indexOf("JavaScript"));
+
+// lastIndexOf()
+console.log("Last Index of 'o':", str.lastIndexOf("o"));
+
+// slice()
+console.log("Slice (7, 18):", str.slice(7, 18));
+
+// substring()
+console.log("Substring (7, 18):", str.substring(7, 18));
+
+// replace()
+console.log("Replace 'World' with 'Universe':", str.replace("World", "Universe"));
+
+// split()
+console.log("Split by space:", str.split(" "));
+
+// trim()
+console.log("Trimmed String:", str.trim());
+
+// toUpperCase()
+console.log("Uppercase:", str.toUpperCase());
+
+// toLowerCase()
+console.log("Lowercase:", str.toLowerCase());
+
+// Experiment with different variations and have fun learning!
+
+
+// Length 
 function getLength(str) {
     console.log("Original String:", str);
     console.log("Length:", str.length);
