@@ -1,7 +1,6 @@
 // String handbook
 
 // String handbook: Demonstration of various string functions
-
 const str = "  Hello, JavaScript World!  ";
 console.log("Original String:", str);
 
@@ -34,9 +33,6 @@ console.log("Uppercase:", str.toUpperCase());
 
 // toLowerCase()
 console.log("Lowercase:", str.toLowerCase());
-
-// Experiment with different variations and have fun learning!
-
 
 // Length 
 function getLength(str) {
