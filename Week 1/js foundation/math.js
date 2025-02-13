@@ -1,3 +1,4 @@
+// math operations in js 
 function mathMethods(value) {
     console.log("Original Value:", value);
   
