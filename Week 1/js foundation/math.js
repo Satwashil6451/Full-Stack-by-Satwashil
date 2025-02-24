@@ -31,4 +31,3 @@ function mathMethods(value) {
   mathMethods(4.56);
   mathMethods(9);
   mathMethods(25);
-  
