@@ -1,4 +1,4 @@
-// String handbook
+// String handbook All functions are in one place
 
 // String handbook: Demonstration of various string functions
 const str = "  Hello, JavaScript World!  ";
