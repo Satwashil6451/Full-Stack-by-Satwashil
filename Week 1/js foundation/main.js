@@ -74,7 +74,6 @@ function sum(a,b){
     const sumValue = a+b;
     return sumValue;
 }
-
 const value = sum(2,3)
 const value2 = sum(9,1)
 console.log(value);
