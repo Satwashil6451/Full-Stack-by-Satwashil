@@ -6,9 +6,9 @@ a = 2;
 a = 3;  
 console.log(a);
 console.log(6);
-console.log("devil");
+console.log("Lucifer");
 
-let FirstName = "devil ";
+let FirstName = "Lucifer ";
 let age = 19;
 let isMarried = false;
 console.log("My name is "+ FirstName + " My age is "+ age);
@@ -33,7 +33,7 @@ const StudentArray = ["xyz" , "ABC" , "pqr"];
 console.log(StudentArray);
 
 //Arrays
-const personArray = ["devil" , "Jack" , "Lily"];
+const personArray = ["Lucifer" , "Jack" , "Lily"];
 const genderArray = ["male" , "male" , "female"];
 const numberofUsers = personArray.length;
 for (let i = 0; i<numberofUsers; i++) {
