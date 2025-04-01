@@ -2,7 +2,8 @@
 
 /*
 A callback function in JavaScript is a function passed as an argument to another function, 
-which is executed later, typically after an asynchronous operation completes. This pattern is widely used in JavaScript, especially in asynchronous programming.
+which is executed later, typically after an asynchronous operation completes. 
+This pattern is widely used in JavaScript, especially in asynchronous programming.
 */
 
 function sum(num1, num2, fnToCall) {
