@@ -3,7 +3,7 @@ and is executed later, usually after some operation has been completed. */
 
 // function to find the square of number
 function square(n){
-    return n *n;
+    return n * n;
 }
 
 //function to do sum of squares
