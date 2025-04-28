@@ -25,7 +25,6 @@ function displayResultPassive(data) {
     let result = num1 + num2;
     callback(result);
 
-
 function displayResult(data) {
     console.log(`Result of the sum is: ${data}`);
 }
