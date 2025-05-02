@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-// my own asynchronous function
+// this one is my own asynchronous function
 function satwashilsReadFile() {
     return new Promise(function(resolve, reject) {
         fs.readFile("satwashil.txt", "utf-8", function(err, data) {
