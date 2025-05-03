@@ -26,4 +26,3 @@ function dateMethods() {
   
   // Example Usage for Date Methods
   dateMethods();
-  
