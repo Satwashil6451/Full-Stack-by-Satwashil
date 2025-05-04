@@ -23,7 +23,8 @@ function dateMethods() {
     // Getting and setting time in milliseconds since 1970
     console.log("Time in milliseconds since 1970:", currentDate.getTime());
   
-    const newDate = new Date(2025, 1, 14); // Creating a new date
+    // Creating a new date
+    const newDate = new Date(2025, 1, 14); 
     console.log("New Date:", newDate);
   }
   
