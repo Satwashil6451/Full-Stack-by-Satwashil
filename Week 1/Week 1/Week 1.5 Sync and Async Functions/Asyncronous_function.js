@@ -14,5 +14,6 @@ function findsumtill100() {
     console.log(result); // Log the result
 }
 
-setTimeout(findsumtill100, 3000);// prints sum after 3 seconds
+// it prints sum after 3 seconds
+setTimeout(findsumtill100, 3000);
 console.log("Satwashil");
