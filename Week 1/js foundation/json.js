@@ -1,4 +1,6 @@
-// The jsonMethods function parses a JSON string into a JavaScript object using JSON.parse() and then converts it back into a JSON string using JSON.stringify(), logging each step. 
+/* The jsonMethods function parses a JSON string into a JavaScript object using JSON.parse() and
+then converts it back into a JSON string using JSON.stringify(), logging each step. */
+
 // It demonstrates JSON handling with an example string containing nested data.
 function jsonMethods(jsonString) {
     console.log("Original JSON String:", jsonString);
