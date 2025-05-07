@@ -4,7 +4,7 @@ function explainParseInt(value) {
     console.log("After parseInt:", result);
   }
   
-  // Example Usage for parseInt
+// Example Usage for parseInt
   explainParseInt("42");
   explainParseInt("42px");
   explainParseInt("3.14");
@@ -12,7 +12,7 @@ function explainParseInt(value) {
   console.log(parseInt("45"));
   console.log(parseInt("35464jkheg"));
   console.log(parseInt("4.9"));
-  // it will parse from a string to an integer
+// it will parse from a string to an integer
   
   function explainParseFloat(value) {
     console.log("Original Value:", value);
