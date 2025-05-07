@@ -20,7 +20,7 @@ function explainParseInt(value) {
     console.log("After parseFloat:", result);
   }
   
-  // Example Usage for parseFloat
+// Example Usage for parseFloat
   explainParseFloat("3.14");
   explainParseFloat("42");
   explainParseFloat("42px");
@@ -29,4 +29,4 @@ function explainParseInt(value) {
   console.log(parseFloat("45"));
   console.log(parseFloat("35464jkheg"));
   console.log(parseFloat("4.9"));
-  // keeps floating values as it is
+// keeps floating values as it is
