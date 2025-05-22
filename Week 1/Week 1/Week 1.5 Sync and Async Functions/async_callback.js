@@ -1,5 +1,6 @@
 /* async_callback
 Asynchronous callback: Executed later, after an asynchronous task finishes. */
+
 console.log("Hi there");
 
 setTimeout(() => {
