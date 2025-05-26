@@ -12,7 +12,7 @@ function findsum(n) {
 }
  
 function findsumtill100() {
-    const result = findsum(100); // Call find sum with 100
+    const result = findsum(100);// Call find sum with 100
     console.log(result); // Log the result
 }
 
