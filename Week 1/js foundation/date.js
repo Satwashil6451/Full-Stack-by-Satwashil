@@ -1,4 +1,7 @@
-/*In JavaScript, date methods are used to work with dates and times. The Date object provides a variety of methods that allow you to create, manipulate, and format dates.*/
+/*
+In JavaScript, date methods are used to work with dates and times. 
+The Date object provides a variety of methods that allow you to create, manipulate, and format dates.
+*/
 
 // Date Methods
 function dateMethods() {
