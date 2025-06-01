@@ -1,6 +1,6 @@
 //functions in javascript
 
-// This is how we declare a function
+// This is how we declare a function in js
 function findsum(n){
     let ans = 0;
     for (let i = 1; i < n; i++){
