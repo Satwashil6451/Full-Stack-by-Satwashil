@@ -21,6 +21,7 @@ if(isMarried == true)
 {
     console.log(FirstName + "is married");
 }
+
 if(isMarried == false){
     console.log(FirstName + "is unmarried");
 }
