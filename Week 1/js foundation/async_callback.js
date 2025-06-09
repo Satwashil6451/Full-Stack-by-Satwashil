@@ -1,4 +1,6 @@
-/* An asynchronous callback is a function passed as an argument to another function, which gets executed later after an asynchronous operation completes.*/
+/*
+An asynchronous callback is a function passed as an argument to another function, which gets executed later after an asynchronous operation completes.
+*/
 
 console.log("Hi there");
 
