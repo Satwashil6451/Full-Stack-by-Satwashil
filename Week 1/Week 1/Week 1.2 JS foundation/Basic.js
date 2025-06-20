@@ -1,4 +1,4 @@
-//Java script runs line by line it is single threaded language
+// Java script runs line by line it is single threaded language
 
 /* 
 JavaScript is a high-level, interpreted programming language.  
