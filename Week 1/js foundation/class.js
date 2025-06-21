@@ -1,6 +1,6 @@
 class Animal {
     constructor(name, legCount) {
-      this.name = Lion
+      this.name = Tiger
       this.legCount = 4
     }
     describe() {
