@@ -30,6 +30,6 @@ function dateMethods() {
     const newDate = new Date(2025, 1, 14); 
     console.log("New Date:", newDate);
   }
-  
+
   // Example Usage for Date Methods
   dateMethods();
