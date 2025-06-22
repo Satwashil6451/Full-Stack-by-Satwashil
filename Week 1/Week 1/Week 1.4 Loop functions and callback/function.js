@@ -8,7 +8,6 @@ function findsum(n){
     }
     return ans;
 }
-
 // This is how we call a function in js
 let ans = findsum(100)
 console.log(ans)
