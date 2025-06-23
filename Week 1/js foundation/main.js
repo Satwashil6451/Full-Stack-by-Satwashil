@@ -1,5 +1,5 @@
 /*
-if we replace let with const then it'll 
+if we replace let with const then itll 
 throw an error because we cannot change the 
 value of const throughout the code base
 */
