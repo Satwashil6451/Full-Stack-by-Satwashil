@@ -1,4 +1,4 @@
-//functions in javascript
+// Functions in javascript
 
 /* 
 1.	Functions in JavaScript are reusable blocks of code that perform a specific task.
