@@ -5,7 +5,7 @@ It’s a way to handle asynchronous tasks more cleanly than using traditional ca
 
 const fs = require('fs');
 
-// this one is my own asynchronous function
+// This one is my own asynchronous function
 function satwashilsReadFile() {
     return new Promise(function(resolve, reject) {
         fs.readFile("satwashil.txt", "utf-8", function(err, data) {
