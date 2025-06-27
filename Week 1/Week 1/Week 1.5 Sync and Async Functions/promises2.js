@@ -1,4 +1,4 @@
-//what are promises -- it is just a class that makes callback and asyncronous function slightly more readable
+// What are promises -- it is just a class that makes callback and asyncronous function slightly more readable
 
 let p = new Promise(function(resolve) {
 resolve("hi there");
