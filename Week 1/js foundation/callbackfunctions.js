@@ -8,7 +8,7 @@ function square(n){
     return n * n;
 }
 
-//function to do sum of squares
+// function to do sum of squares
 function SumOfSquares(a,b){
     const val1 = square(a);
     const val2 = square(b);
