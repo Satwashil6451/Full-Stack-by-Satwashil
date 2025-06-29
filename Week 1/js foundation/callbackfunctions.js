@@ -3,7 +3,7 @@ callback function --> A callback function in JavaScript is a function that is pa
 and is executed later, usually after some operation has been completed...
 */
 
-// function to find the square of number
+// Function to find the square of number
 function square(n){
     return n * n;
 }
