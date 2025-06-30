@@ -12,7 +12,7 @@ function getLength(str) {
   }
   getLength("Satwashil Khot");
 
-//indexOf() 
+// indexOf() 
 function FindindexOf(str, index){
     console.log("Origional String", str)
     console.log("Index of 'a':", str.indexOf('a'))
