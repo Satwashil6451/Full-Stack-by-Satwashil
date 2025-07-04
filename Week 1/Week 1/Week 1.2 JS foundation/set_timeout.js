@@ -11,5 +11,4 @@ function greetworld(){
 setTimeout(greet,  3 *1000)
 
 // set interval is a function that will print the o/p after the given time in a loop
-
 setInterval(greetworld, 1 * 1000)
