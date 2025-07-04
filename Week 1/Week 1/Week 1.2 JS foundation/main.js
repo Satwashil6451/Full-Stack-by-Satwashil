@@ -34,7 +34,7 @@ console.log(answer);
 const StudentArray = ["xyz" , "ABC" , "pqr"];
 console.log(StudentArray);
 
-//Arrays
+// Arrays
 const personArray = ["Lucifer" , "Jack" , "Lily"];
 const genderArray = ["male" , "male" , "female"];
 const numberofUsers = personArray.length;
