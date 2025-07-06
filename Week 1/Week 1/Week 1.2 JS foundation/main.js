@@ -82,7 +82,7 @@ const value2 = sum(9,1)
 console.log(value);
 console.log(value2);
 
-//callback functions 
+// callback functions 
 function sum(num1, num2, fnToCall) {
     let result = num1 + num2;
     fnToCall(result);
