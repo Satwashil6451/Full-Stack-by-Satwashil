@@ -14,7 +14,7 @@ function pushExample(arr, element) {
   }
   pushExample([1, 2, 3], 4);
   
-  //push example
+  // push example
   const initialArray4 = [1,2,3];
   initialArray4.push(2);
   console.log(initialArray4);
