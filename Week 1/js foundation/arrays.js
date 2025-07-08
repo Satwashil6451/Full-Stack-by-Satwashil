@@ -19,7 +19,7 @@ function pushExample(arr, element) {
   initialArray4.push(2);
   console.log(initialArray4);
   
-  //pop
+  //pop()
   const initialArray = [1,2,3];
   initialArray.pop(2);
   console.log(initialArray);
