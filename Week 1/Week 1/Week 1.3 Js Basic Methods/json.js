@@ -15,4 +15,3 @@ function jsonMethods(jsonString) {
     '{"key": "value", "number": 42, "nested": {"nestedKey": "nestedValue"}}';
   
   jsonMethods(sampleJSONString);
-  
