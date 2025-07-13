@@ -2,7 +2,6 @@
 set timeout is a function used to print result delayed as per
 given miliseconds or seconds as per our preference.
 */
-
 function greet (){
     console.log ("Good Morning!");
 }
