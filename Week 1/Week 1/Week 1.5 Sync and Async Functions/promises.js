@@ -19,7 +19,6 @@ function satwashilsReadFile() {
 }
 
 // Callback function to call
-
 function onDone(data) {
     console.log(data);
 }
