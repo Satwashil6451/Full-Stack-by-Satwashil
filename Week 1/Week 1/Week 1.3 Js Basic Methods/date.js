@@ -26,5 +26,5 @@ function dateMethods() {
     console.log("New Date:", newDate);
   }
   
-  // Example Usage for Date Methods
+ // Example Usage for Date Methods
   dateMethods();
