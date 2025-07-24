@@ -59,4 +59,5 @@ function sum(a,b){
     
 }
 const value = calculateArithmetic(1,2,sum);
+
 console.log(value);
