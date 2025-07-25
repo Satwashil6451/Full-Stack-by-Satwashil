@@ -4,7 +4,7 @@
 // split(), trim(), toUpperCase(), toLowerCase(), etc.
 // Run each function to see the output, play and learn by doing.
 
-// Length
+//Length
 function getLength(str) {
     console.log("Original String:", str);
     console.log("Length:", str.length);
