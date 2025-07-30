@@ -1,5 +1,4 @@
 // Functions in javascript
-
 // This is how we declare a function in js
 function findsum(n){
     let ans = 0;
