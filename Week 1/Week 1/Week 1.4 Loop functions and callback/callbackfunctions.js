@@ -16,6 +16,7 @@ function SumOfSquares(a,b){
 console.log(SumOfSquares(3,6))
 
 // now input will be square or whatever so we are going to take 3 inputs 
+
 function square(n){
     return n *n;
 }
