@@ -13,8 +13,7 @@ function explainParseInt(value) {
   console.log(parseInt("35464jkheg"));
   console.log(parseInt("4.9"));
 
-  // it will parse from a string to an integer
-  
+  // it will parse from a string to an integer  
   function explainParseFloat(value) {
     console.log("Original Value:", value);
     let result = parseFloat(value);
@@ -30,3 +29,4 @@ function explainParseInt(value) {
   console.log(parseFloat("45"));
   console.log(parseFloat("35464jkheg"));
   console.log(parseFloat("4.9"));
+
