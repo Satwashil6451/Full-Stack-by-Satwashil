@@ -83,6 +83,7 @@ console.log(value);
 console.log(value2);
 
 // callback functions 
+
 function sum(num1, num2, fnToCall) {
     let result = num1 + num2;
     fnToCall(result);
@@ -98,3 +99,4 @@ function displayResultPassive(data) {
 // You are only allowed to call one function after this
 // How will you displayResult of a sum
 const ans = sum(1,2, displayResult);
+
