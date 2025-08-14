@@ -28,5 +28,4 @@ function explainParseInt(value) {
   // Keeps floating values as it is
   console.log(parseFloat("45"));
   console.log(parseFloat("35464jkheg"));
-  console.log(parseFloat("4.9"));
-
+  console.log(parseFloat("4.9")):
