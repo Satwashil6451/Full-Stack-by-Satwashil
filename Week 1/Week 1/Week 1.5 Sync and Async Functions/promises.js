@@ -4,6 +4,7 @@ It’s a way to handle asynchronous tasks more cleanly than using traditional ca
 */
 
 const fs = require('fs');
+
 // This one is my own asynchronous function
 function satwashilsReadFile() {
     return new Promise(function(resolve, reject) {
@@ -24,3 +25,4 @@ function onDone(data) {
 satwashilsReadFile()
     .then(onDone)
     .catch(err => console.error("Error reading file:", err));
+
