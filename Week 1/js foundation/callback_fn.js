@@ -10,6 +10,7 @@ function sum(num1, num2, fnToCall) {
     let result = num1 + num2;
     fnToCall(result);
 }
+
 function displayResult(data) {
     console.log("Result of the sum is : " + data);
 }
@@ -60,3 +61,4 @@ function sum(a,b){
 }
 const value = calculateArithmetic(1,2,sum);
 console.log(value);
+
