@@ -1,3 +1,5 @@
+//class.js
+
 class Animal {
     constructor(name, legCount) {
       this.name = Tiger
