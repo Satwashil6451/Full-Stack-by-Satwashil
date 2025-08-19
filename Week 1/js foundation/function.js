@@ -17,6 +17,5 @@ function findsum(n){
 }
 
 // This is how we can call a function
-
 let ans = findsum(100)
 console.log(ans)
