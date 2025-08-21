@@ -20,6 +20,7 @@ console.log(SumOfSquares(3,6))
 function square(n){
     return n * n;
 }
+
 function sumofsomething(a, b , fn){
     const val1 = fn(a)
     const val2 = fn(b)
