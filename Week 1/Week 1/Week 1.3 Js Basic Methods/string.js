@@ -16,7 +16,7 @@ function FindindexOf(str, index){
     console.log("Origional String", str)
     console.log("Index of 'a':", str.indexOf('a'))
   }
-FindindexOf("Sdhjdjdnddyaahsnshsyaashshsyna")
+findindexOf("Sdhjdjdnddyaahsnshsyaashshsyna")
 
 //lastindexOf()
 function findLastIndexOf(str, target) {
@@ -24,4 +24,5 @@ function findLastIndexOf(str, target) {
     console.log("Index:", str.lastIndexOf(target));
   }
 findLastIndexOf("Hello World World", "World");
+
 
