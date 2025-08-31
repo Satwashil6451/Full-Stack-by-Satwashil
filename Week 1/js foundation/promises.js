@@ -26,4 +26,3 @@ satwashilsReadFile()
     .then(onDone)
     .catch(err => console.error("Error reading file:", err));
 // for running this file you should have satwashil.txt file in you main folder
-
