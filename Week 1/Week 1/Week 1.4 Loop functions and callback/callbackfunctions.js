@@ -13,6 +13,7 @@ function SumOfSquares(a,b){
     const val2 = square(b);
     return val1 + val2
 }
+
 console.log(SumOfSquares(3,6))
 
 // now input will be square or whatever so we are going to take 3 inputs 
@@ -27,5 +28,6 @@ function sumofsomething(a, b , fn){
 
 sumofsomething(1,8,square)
 console.log(sumofsomething)
+
 
 
