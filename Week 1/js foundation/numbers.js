@@ -15,9 +15,9 @@ function explainParseInt(value) {
 
   // it will parse from a string to an integer  
   function explainParseFloat(value) {
-    console.log("Original Value:", value);
-    let result = parseFloat(value);
-    console.log("After parseFloat:", result);
+  console.log("Original Value:", value);
+  let result = parseFloat(value);
+  console.log("After parseFloat:", result);
   }
   
   // Example Usage for parseFloat
@@ -29,3 +29,4 @@ function explainParseInt(value) {
   console.log(parseFloat("45"));
   console.log(parseFloat("35464jkheg"));
   console.log(parseFloat("4.9")):
+
