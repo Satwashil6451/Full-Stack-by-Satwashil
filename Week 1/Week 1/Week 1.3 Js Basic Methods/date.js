@@ -25,6 +25,7 @@ function dateMethods() {
     const newDate = new Date(2025, 1, 14); // Creating a new date
     console.log("New Date:", newDate);
   }
-  
+
  // Example Usage for Date Methods
   dateMethods();
+
