@@ -3,7 +3,6 @@ function explainParseInt(value) {
     let result = parseInt(value);
     console.log("After parseInt:", result);
   }
-  
 // Example Usage for parse int
   explainParseInt("42");
   explainParseInt("42px");
@@ -29,3 +28,4 @@ function explainParseInt(value) {
   console.log(parseFloat("35464jkheg"));
   console.log(parseFloat("4.9"));
 // keeps floating values as it is
+
