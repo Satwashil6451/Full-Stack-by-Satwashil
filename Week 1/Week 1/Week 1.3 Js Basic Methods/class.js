@@ -1,4 +1,4 @@
-// this is how we create classs in js
+// this is how we create a class in js
 class Animal {
     constructor(name, legCount) {
       this.name = name
@@ -8,5 +8,6 @@ class Animal {
       return `${this.name} has ${this.legCount} legs`
     }
   }
+
 
 
