@@ -5,6 +5,8 @@
   Once you've implemented the logic, test your code by running
 */
 
+//Solution 
+
 function countVowels(str) {
     // Define vowels
     const vowels = "aeiouAEIOU";
