@@ -130,7 +130,6 @@ describe('Todo API', () => {
         done();
       }
     );
-
     req.end();
   });
 
