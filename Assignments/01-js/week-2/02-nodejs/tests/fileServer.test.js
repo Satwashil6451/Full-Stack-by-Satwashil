@@ -134,7 +134,6 @@ function sendRequest(options, requestBody) {
     if (requestBody) {
       req.write(requestBody);
     }
-
     req.end();
   });
 }
