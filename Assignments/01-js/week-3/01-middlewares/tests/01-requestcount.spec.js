@@ -18,6 +18,7 @@ describe('GET /user', function() {
                   .get('/user')
                   .then();
           }
+    
           request(app)
               .get('/requestCount')
               .then(response => {
