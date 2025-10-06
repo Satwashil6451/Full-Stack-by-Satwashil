@@ -1,5 +1,6 @@
 // math.js
-function mathMethods(value) {
+function mathMethods(value) 
+{
     console.log("Original Value:", value);
   
     let rounded = Math.round(value);
@@ -31,3 +32,4 @@ function mathMethods(value) {
   mathMethods(4.56);
   mathMethods(9);
   mathMethods(25);
+
