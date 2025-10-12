@@ -20,13 +20,13 @@ function satwashilsReadFile() {
 
 // Callback function to call
 function onDone(data) {
-    
     console.log(data);
 }
 
 satwashilsReadFile()
     .then(onDone)
     .catch(err => console.error("Error reading file:", err));
+
 
 
 
