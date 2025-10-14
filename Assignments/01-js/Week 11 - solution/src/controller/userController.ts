@@ -154,7 +154,8 @@ export const getAllUsers = async (c: Context) => {
         email: user.email,
       })),
     });
-  } catch (error) {
+  } 
+  catch (error) {
     return c.body(`Internal server error: ${error}`, 500);
   }
 };
