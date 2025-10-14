@@ -59,7 +59,8 @@ export const getPostsByTag = async (c: Context) => {
         createdAt: post.createdAt,
       })),
     });
-  } catch (error) {
+  } 
+  catch (error) {
     return c.body(`Internal server error: ${error}`, 500);
   }
 };
