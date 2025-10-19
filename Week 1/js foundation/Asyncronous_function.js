@@ -18,6 +18,3 @@ function findsumtill100() {
 }
 setTimeout(findsumtill100, 3000);  // prints sum sfter 3 seconds
 console.log("Satwashil");
-
-
-
