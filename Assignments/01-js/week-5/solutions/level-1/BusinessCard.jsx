@@ -55,6 +55,7 @@ export function BusinessCard(props) {
       display: 'flex',
       marginBottom: '15px',
     },
+      
     link: {
       textDecoration: 'none',
       color: '#fff', // Text color
