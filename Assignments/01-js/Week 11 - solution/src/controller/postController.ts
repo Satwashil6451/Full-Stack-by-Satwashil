@@ -9,6 +9,7 @@ enum StatusCode {
   NOTPERMISSIOON = 403,
 }
 
+
 export async function getPosts(c: Context) {
   const prisma = new PrismaClient({
     datasourceUrl: c.env.DATABASE_URL,
