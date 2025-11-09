@@ -1,5 +1,4 @@
 // Functions in javascript
-
 /* 
 1. Functions in JavaScript are reusable blocks of code that perform a specific task.
 2. They can be declared using the function keyword or as arrow functions (=>).
@@ -19,5 +18,6 @@ function findsum(n){
 // This is how we can call a function
 let ans = findsum(100)
 console.log(ans)
+
 
 
