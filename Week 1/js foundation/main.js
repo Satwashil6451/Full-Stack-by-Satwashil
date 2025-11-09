@@ -94,8 +94,10 @@ function displayResult(data) {
 function displayResultPassive(data) {
     console.log("Sum's result is : " + data);
 }
+
 // You are only allowed to call one function after this
 // this is how you can displayResult of a sum
 const ans = sum(1,2, displayResult);
+
 
 
