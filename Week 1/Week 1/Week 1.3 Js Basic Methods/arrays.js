@@ -4,7 +4,6 @@
 Array:   push(), pop(), shift(), unshift(), splice(), slice(),
 concat(), forEach(), map(), filter(), reduce(), find(), sort() 
 */
-
 // Run each function to see the output, play and learn by doing.
 
 // push()
@@ -142,3 +141,4 @@ function pushExample(arr, element) {
   }
   sortExample([5, 2, 3, 4, 1]);
   
+
