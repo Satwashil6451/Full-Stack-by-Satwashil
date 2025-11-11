@@ -11,5 +11,4 @@ const StaticPage = () => {
   }
   
   export default StaticPage
-  
 */
