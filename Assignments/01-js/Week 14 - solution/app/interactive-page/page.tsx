@@ -18,6 +18,4 @@ const InteractivePage = () => {
 }
 
 export default InteractivePage
-
-
 */
