@@ -14,7 +14,6 @@ class Todo {
   constructor() {
     this.todos = [];
   }
-
   // Add a new todo
   add(todo) {
     this.todos.push(todo);
