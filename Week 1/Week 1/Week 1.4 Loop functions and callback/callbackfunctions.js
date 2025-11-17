@@ -1,7 +1,6 @@
-/*
-Call back functions
-function to find the square of number 
-*/
+/* Call back functions
+function to find the square of number */
+
 
 function square(n){
     return n *n;
@@ -27,6 +26,7 @@ function sumofsomething(a, b , fn){
 
 sumofsomething(1,8,square)
 console.log(sumofsomething)
+
 
 
 
