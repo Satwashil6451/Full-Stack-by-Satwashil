@@ -5,9 +5,9 @@ class Animal {
       this.name = name
       this.legCount = legCount
     }
-    
     describe() {
       return `${this.name} has ${this.legCount} legs`
     }
   }
+
 
