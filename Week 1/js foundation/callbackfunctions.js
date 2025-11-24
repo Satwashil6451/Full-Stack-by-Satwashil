@@ -26,8 +26,8 @@ function sumofsomething(a, b , fn){
     const val2 = fn(b)
 }
 sumofsomething(1,8,square)
-
 console.log(sumofsomething)
+
 
 
 
