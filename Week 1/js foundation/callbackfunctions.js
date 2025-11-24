@@ -27,8 +27,3 @@ function sumofsomething(a, b , fn){
 }
 sumofsomething(1,8,square)
 console.log(sumofsomething)
-
-
-
-
-
