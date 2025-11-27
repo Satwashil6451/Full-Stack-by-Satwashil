@@ -1,5 +1,4 @@
 // date.js
-
 function dateMethods() {
     const currentDate = new Date();
     console.log("Current Date:", currentDate);
@@ -29,5 +28,6 @@ function dateMethods() {
 
  // Example Usage for Date Methods
   dateMethods();
+
 
 
