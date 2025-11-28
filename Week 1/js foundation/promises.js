@@ -5,6 +5,7 @@ A Promise represents a value that might be available now, in the future, or neve
 
 const fs = require('fs');
 // my own asynchronous function
+
 function satwashilsReadFile() {
     return new Promise(function(resolve, reject) {
         fs.readFile("satwashil.txt", "utf-8", function(err, data) {
