@@ -16,8 +16,7 @@ function findsumtill100() {
     const result = findsum(100); // Call find sum with 100
     console.log(result); // Log the Result
 }
-
-
+
 // It prints sum after 3 seconds
 setTimeout(findsumtill100, 3000);
 console.log("Satwashil");
