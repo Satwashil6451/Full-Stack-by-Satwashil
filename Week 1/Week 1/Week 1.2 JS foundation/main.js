@@ -20,6 +20,7 @@ if(isMarried == true)
 {
     console.log(FirstName + "is married");
 }
+
 if(isMarried == false){
     console.log(FirstName + "is unmarried");
 }
@@ -99,5 +100,6 @@ function displayResultPassive(data) {
 // You are only allowed to call one function after this
 // How will you displayResult of a sum
 const ans = sum(1,2, displayResult);
+
 
 
