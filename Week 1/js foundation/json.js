@@ -4,7 +4,6 @@ then converts it back into a JSON string using JSON.stringify(), logging each st
 */
 
 // It demonstrates JSON handling with an example string containing nested data.
-
 function jsonMethods(jsonString) {
     console.log("Original JSON String:", jsonString);
 
@@ -21,3 +20,4 @@ function jsonMethods(jsonString) {
   const sampleJSONString =
     '{"key": "value", "number": 42, "nested": {"nestedKey": "nestedValue"}}';
 jsonMethods(sampleJSONString);
+
