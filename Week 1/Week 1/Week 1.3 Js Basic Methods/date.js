@@ -13,6 +13,7 @@ function dateMethods() {
     console.log("Seconds:", currentDate.getSeconds());
   
     // Setting components of the date
+
     currentDate.setFullYear(2022);
     console.log("After setFullYear:", currentDate);
   
