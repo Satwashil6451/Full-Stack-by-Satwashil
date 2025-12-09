@@ -1,6 +1,7 @@
 /*
 Array handbook - push(), pop(), shift(), unshift(), splice(), slice(),
 concat(), forEach(), map(), filter(), reduce(), find(), sort()
+
 Run each function to see the output, play and learn by doing.  
 */
 
@@ -138,6 +139,7 @@ function pushExample(arr, element) {
     console.log("After sort:", arr);
   }
   sortExample([5, 2, 3, 4, 1]);
+
 
 
 
