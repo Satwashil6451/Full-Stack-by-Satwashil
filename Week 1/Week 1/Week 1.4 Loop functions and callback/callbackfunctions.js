@@ -5,7 +5,6 @@ function to find the square of number */
 function square(n){
     return n *n;
 }
-
 // function to do sum of squares
 function SumOfSquares(a,b){
     const val1 = square(a);
@@ -26,6 +25,7 @@ function sumofsomething(a, b , fn){
 
 sumofsomething(1,8,square)
 console.log(sumofsomething)
+
 
 
 
