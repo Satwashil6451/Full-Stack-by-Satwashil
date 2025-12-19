@@ -9,5 +9,3 @@ class Animal {
       return `${this.name} has ${this.legCount} legs`
     }
   }
-
-
