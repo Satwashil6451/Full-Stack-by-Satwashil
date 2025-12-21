@@ -32,6 +32,7 @@ for(let i = 0; i<=100; i=i+1){
 console.log(answer);
 
 // printing array 
+
 const StudentArray = ["xyz" , "ABC" , "pqr"];
 console.log(StudentArray);
 
