@@ -14,7 +14,4 @@ function findsum(n){
 }
 
 let ans = findsum(1000)
-
 console.log(ans)
-
-
