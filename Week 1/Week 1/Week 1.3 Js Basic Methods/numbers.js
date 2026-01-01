@@ -1,3 +1,4 @@
+// numbers.js
 function explainParseInt(value) {
     console.log("Original Value:", value);
     let result = parseInt(value);
@@ -29,5 +30,6 @@ function explainParseInt(value) {
   console.log(parseFloat("35464jkheg"));
   console.log(parseFloat("4.9"));
 // keeps floating values as it is
+
 
 
