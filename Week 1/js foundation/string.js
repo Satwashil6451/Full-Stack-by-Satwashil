@@ -4,7 +4,7 @@ All functions are in one place
 */
 
 // String handbook: Demonstration of various string functions
-const str = "  Hello, JavaScript World!  ";
+const str = "  Hello, JavaScript World! ";
 console.log("Original String:", str);
 
 // length
@@ -57,4 +57,5 @@ function findLastIndexOf(str, target) {
     console.log("Index:", str.lastIndexOf(target));
   }
 findLastIndexOf("Hello World World", "World");
+
 
