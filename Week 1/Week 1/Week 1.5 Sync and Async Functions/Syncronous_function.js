@@ -15,3 +15,14 @@ function findsum(n){
 
 let ans = findsum(1000)
 console.log(ans)
+
+/*
+    function syncExample() {
+  console.log("Step 1");
+  console.log("Step 2");
+  console.log("Step 3");
+}
+
+syncExample();
+
+    */
