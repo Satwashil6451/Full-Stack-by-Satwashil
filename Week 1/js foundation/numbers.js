@@ -31,7 +31,3 @@ function explainParseInt(value) {
   console.log(parseFloat("45"));
   console.log(parseFloat("35464jkheg"));
   console.log(parseFloat("4.9")):
-
-
-
-
