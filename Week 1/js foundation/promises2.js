@@ -1,4 +1,5 @@
-/* what are promises --
+/* 
+what are promises --
 it is just a class that makes callback and asyncronous function slightly more readable this is what promises are
 */
 
@@ -9,4 +10,3 @@ p.then(function() {
 console.log(p);
 })  
 console.log("Promises")
-
