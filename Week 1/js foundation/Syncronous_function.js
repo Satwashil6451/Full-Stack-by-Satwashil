@@ -12,10 +12,5 @@ function findsum(n){
     }
     return ans;
 }
-
 let ans = findsum(1000)
 console.log(ans);
-
-
-
-
