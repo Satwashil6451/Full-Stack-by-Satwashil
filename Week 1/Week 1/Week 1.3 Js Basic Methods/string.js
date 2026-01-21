@@ -29,4 +29,3 @@ function findLastIndexOf(str, target) {
   }
 
 findLastIndexOf("Hello World World", "World");
-
