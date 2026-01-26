@@ -1,5 +1,6 @@
 /*
-Asynchronous Function
+Asynchronous Function --
+
 In JavaScript, an asynchronous function is a function that allows other code to run while it is waiting for a task to complete.
 This is in contrast to synchronous functions, which block the execution of other code until they have finished.
 */
@@ -19,4 +20,5 @@ function findsumtill100() {
 
 setTimeout(findsumtill100, 3000);  // prints sum sfter 3 seconds
 console.log("Satwashil");
+
 
