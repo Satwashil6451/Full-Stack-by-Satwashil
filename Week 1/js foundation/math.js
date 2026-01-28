@@ -1,4 +1,5 @@
 // mathMethods.js
+
 // This file demonstrates commonly used Math operations in JavaScript
 
 /**
@@ -54,3 +55,4 @@ function mathMethods(value) {
 mathMethods(4.56);
 mathMethods(9);
 mathMethods(25);
+
