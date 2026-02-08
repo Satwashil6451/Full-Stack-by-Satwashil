@@ -28,8 +28,7 @@ function asyncExample() {
 
   setTimeout(() => {
     console.log("Step 2 (after 2 seconds)");
-  }, 2000);
-
+  }, 2000);
   console.log("Step 3");
 }
 
