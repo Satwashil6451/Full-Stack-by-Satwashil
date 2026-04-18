@@ -36,8 +36,7 @@ function displayResultPassive(data) {
     console.log(`Sum's result is: ${data}`);
 }
 
-const ans = sum(1, 2, displayResult);
-
+const ans = sum(1, 2, displayResult);
 function calculateArithmetic(a, b, arithmeticFinalFunction) {
     const ans = arithmeticFinalFunction(a, b);
     return ans;
